@@ -6,12 +6,13 @@ RewriteRule ^$ home.html [L]
 
 # هدایت زبان‌های مختلف به home.html
 RewriteRule ^(en|tr|ar)?$ home.html [L]
+RewriteRule ^/en?$ home.html [L]
 
 # هدایت صفحات مختلف (فارسی و زبان‌های دیگر)
 RewriteRule ^about/?$ about.html [L]
 RewriteRule ^(en|tr|ar)/about/?$ about.html [L]
 
-
+RewriteRule ^contact/?$ contact.html [L]
 RewriteRule ^(en|tr|ar)/contact/?$ contact.html [L]
 
 RewriteRule ^products/?$ products.html [L]
