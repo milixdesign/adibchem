@@ -5,7 +5,7 @@ RewriteEngine On
 RewriteRule ^$ home.html [L]
 
 # هدایت زبان‌های مختلف به home.html
-RewriteRule ^(en|tr|ar)/?$ home.html [L]
+RewriteRule ^(en|tr|ar)?$ home.html [L]
 
 # هدایت صفحات مختلف (فارسی و زبان‌های دیگر)
 RewriteRule ^about/?$ about.html [L]
