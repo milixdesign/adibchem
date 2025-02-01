@@ -1,0 +1,205 @@
+{
+    "fa": {
+        "home": {
+            "pageTitle": "شرکت صنایع شیمیایی ادیب",
+            "nav-home": "صفحه اصلی",
+            "nav-about": "درباره ما",
+            "nav-products": "محصولات",
+            "nav-contact": "تماس با ما",
+            "headline": "تخصص در تولید محصولات پتروشیمی",
+            "subheadline": "شرکت پتروشیمی پارسا فن آوری ادیب، با داشتن حدود 10 هزار تن مخازن دپو، امکانات مناسبی جهت تولید، پالایش و تصفیه انواع حلالهای شیمیایی، تینرهای روغنی، فوری و کوره ای، وایت اسپریت، انواع هیدروکربن سبک و سنگین.",
+            "text-button": "مشاهده محصولات ",
+            "nav-lang": "فارسی",
+            "Company": "شرکت صنایع شیمیایی ادیب"
+        },
+        "about": {
+            "pageTitle": "درباره ما",
+            "nav-home": "صفحه اصلی",
+            "nav-about": "درباره ما",
+            "nav-products": "محصولات",
+            "nav-contact": "تماس با ما",
+            "headline": "تاریخچه شرکت",
+            "subheadline": "شرکت پتروشیمی پارسا فن آوری ادیب، با داشتن حدود 10 هزار تن مخازن دپو، امکانات مناسبی جهت تولید، پالایش و تصفیه انواع حلالهای شیمیایی، تینرهای روغنی، فوری و کوره ای، وایت اسپریت، انواع هیدروکربن سبک و سنگین.",
+            "text-button": "مشاهده محصولات ",
+            "nav-lang": "فارسی",
+            "Company": "شرکت صنایع شیمیایی ادیب"
+        },
+        "products": {
+            "pageTitle": "محصولات",
+            "nav-home": "صفحه اصلی",
+            "nav-about": "درباره ما",
+            "nav-products": "محصولات",
+            "nav-contact": "تماس با ما",
+            "headline": "محصولات شرکت",
+            "subheadline": "شرکت پتروشیمی پارسا فن آوری ادیب، با داشتن حدود 10 هزار تن مخازن دپو، امکانات مناسبی جهت تولید، پالایش و تصفیه انواع حلالهای شیمیایی، تینرهای روغنی، فوری و کوره ای، وایت اسپریت، انواع هیدروکربن سبک و سنگین.",
+            "text-button": "مشاهده محصولات ",
+            "nav-lang": "فارسی",
+            "Company": "شرکت صنایع شیمیایی ادیب"
+        },
+        "contact": {
+            "pageTitle": "تماس با ما",
+            "nav-home": "صفحه اصلی",
+            "nav-about": "درباره ما",
+            "nav-products": "محصولات",
+            "nav-contact": "تماس با ما",
+            "headline": "تماس با ما",
+            "subheadline": "شرکت پتروشیمی پارسا فن آوری ادیب، با داشتن حدود 10 هزار تن مخازن دپو، امکانات مناسبی جهت تولید، پالایش و تصفیه انواع حلالهای شیمیایی، تینرهای روغنی، فوری و کوره ای، وایت اسپریت، انواع هیدروکربن سبک و سنگین.",
+            "text-button": "مشاهده محصولات ",
+            "nav-lang": "فارسی",
+            "Company": "شرکت صنایع شیمیایی ادیب"
+        }
+    },
+
+    "en": {
+        "home": {
+            "pageTitle": "Adib Chemical Industries",
+            "nav-home": "Home",
+            "nav-about": "About",
+            "nav-products": "Products",
+            "nav-contact": "Contact",
+            "headline": "Expertise in Petrochemical Production",
+            "subheadline": "Parsa Fanavari Adib Petrochemical Company specializes in producing, refining, and purifying chemical solvents, thinners, white spirit, and hydrocarbons with state-of-the-art facilities and 10,000 tons of storage capacity.",
+            "text-button": "Discover Products",
+            "nav-lang": "English",
+            "Company": "Adib Chemical Industries"
+        },
+        "about": {
+            "pageTitle": "About Us",
+            "nav-home": "Home",
+            "nav-about": "About",
+            "nav-products": "Products",
+            "nav-contact": "Contact",
+            "headline": "Company History",
+            "subheadline": "Parsa Fanavari Adib Petrochemical Company specializes in producing, refining, and purifying chemical solvents, thinners, white spirit, and hydrocarbons with state-of-the-art facilities and 10,000 tons of storage capacity.",
+            "text-button": "Discover Products",
+            "nav-lang": "English",
+            "Company": "Adib Chemical Industries"
+        },
+        "products": {
+            "pageTitle": "Products",
+            "nav-home": "Home",
+            "nav-about": "About",
+            "nav-products": "Products",
+            "nav-contact": "Contact",
+            "headline": "Company Products",
+            "subheadline": "Parsa Fanavari Adib Petrochemical Company specializes in producing, refining, and purifying chemical solvents, thinners, white spirit, and hydrocarbons with state-of-the-art facilities and 10,000 tons of storage capacity.",
+            "nav-lang": "English",
+            "text-button": "Discover Products",
+            "Company": "Adib Chemical Industries"
+        },
+        "contact": {
+            "pageTitle": "Contact Us",
+            "nav-home": "Home",
+            "nav-about": "About",
+            "nav-products": "Products",
+            "nav-contact": "Contact",
+            "headline": "Contact Us",
+            "subheadline": "Parsa Fanavari Adib Petrochemical Company specializes in producing, refining, and purifying chemical solvents, thinners, white spirit, and hydrocarbons with state-of-the-art facilities and 10,000 tons of storage capacity.",
+            "nav-lang": "English",
+            "text-button": "Discover Products",
+            "Company": "Adib Chemical Industries"
+        }
+    },
+
+    "ar": {
+        "home": {
+            "pageTitle": "شركة الصناعات الكيميائية أديب",
+            "nav-home": "الصفحة الرئيسية",
+            "nav-about": "معلومات عنا",
+            "nav-products": "منتجات",
+            "nav-contact": "اتصل بنا",
+            "headline": "الخبرة في إنتاج البتروكيماويات",
+            "subheadline": "تخصصت شركة بارسا فنافاري أديب للبتروكيماويات في إنتاج وتكرير وتنقية المذيبات الكيميائية والمذيبات والروحين والهيدروكربونات الخفيفة والثقيلة بمرافق حديثة وقدرة تخزين تبلغ 10،000 طن.",
+            "text-button": "اكتشف المنتجات",
+            "nav-lang": "العربية",
+            "Company": "شركة الصناعات الكيميائية أديب"
+        },
+        "about": {
+            "pageTitle": "معلومات عنا",
+            "nav-home": "الصفحة الرئيسية",
+            "nav-about": "معلومات عنا",
+            "nav-products": "منتجات",
+            "nav-contact": "اتصل بنا",
+            "headline": "تاريخ الشركة",
+            "subheadline": "تخصصت شركة بارسا فنافاري أديب للبتروكيماويات في إنتاج وتكرير وتنقية المذيبات الكيميائية والمذيبات والروحين والهيدروكربونات الخفيفة والثقيلة بمرافق حديثة وقدرة تخزين تبلغ 10،000 طن.",
+            "text-button": "اكتشف المنتجات",
+            "nav-lang": "العربية",
+            "Company": "شركة الصناعات الكيميائية أديب"
+        },
+        "products": {
+            "pageTitle": "منتجات",
+            "nav-home": "الصفحة الرئيسية",
+            "nav-about": "معلومات عنا",
+            "nav-products": "منتجات",
+            "nav-contact": "اتصل بنا",
+            "headline": "منتجات الشركة",
+            "subheadline": "تخصصت شركة بارسا فنافاري أديب للبتروكيماويات في إنتاج وتكرير وتنقية المذيبات الكيميائية والمذيبات والروحين والهيدروكربونات الخفيفة والثقيلة بمرافق حديثة وقدرة تخزين تبلغ 10،000 طن.",
+            "nav-lang": "العربية",
+            "text-button": "اكتشف المنتجات",
+            "Company": "شركة الصناعات الكيميائية أديب"
+        },
+        "contact": {
+            "pageTitle": "اتصل بنا",
+            "nav-home": "الصفحة الرئيسية",
+            "nav-about": "معلومات عنا",
+            "nav-products": "منتجات",
+            "nav-contact": "اتصل بنا",
+            "headline": "اتصل بنا",
+            "subheadline": "تخصصت شركة بارسا فنافاري أديب للبتروكيماويات في إنتاج وتكرير وتنقية المذيبات الكيميائية والمذيبات والروحين والهيدروكربونات الخفيفة والثقيلة بمرافق حديثة وقدرة تخزين تبلغ 10،000 طن.",
+            "nav-lang": "العربية",
+            "text-button": "اكتشف المنتجات",
+            "Company": "شركة الصناعات الكيميائية أديب"
+        }
+    },
+
+    "tr": {
+        "home": {
+            "pageTitle": "Adib Kimya Sanayi",
+            "nav-home": "Ana Sayfa",
+            "nav-about": "Hakkımızda",
+            "nav-products": "Ürünler",
+            "nav-contact": "İletişim",
+            "headline": "Petrokimya Üretiminde Uzmanlık",
+            "subheadline": "Parsa Fanavari Adib Petrokimya Şirketi, 10.000 tonluk depolama kapasitesi ve son teknoloji tesisleri ile kimyasal çözücüler, incelticiler, beyaz tinerler ve hafif ve ağır hidrokarbonları üretme, rafine etme ve arıtma konusunda uzmanlaşmıştır.",
+            "text-button": "Ürünleri Keşfet",
+            "nav-lang": "Türkçe",
+            "Company": "Adib Kimya Sanayi"
+        },
+        "about": {
+            "pageTitle": "Hakkımızda",
+            "nav-home": "Ana Sayfa",
+            "nav-about": "Hakkımızda",
+            "nav-products": "Ürünler",
+            "nav-contact": "İletişim",
+            "headline": "Şirket Tarihi",
+            "subheadline": "Parsa Fanavari Adib Petrokimya Şirketi, 10.000 tonluk depolama kapasitesi ve son teknoloji tesisleri ile kimyasal çözücüler, incelticiler, beyaz tinerler ve hafif ve ağır hidrokarbonları üretme, rafine etme ve arıtma konusunda uzmanlaşmıştır.",
+            "text-button": "Ürünleri Keşfet",
+            "nav-lang": "Türkçe",
+            "Company": "Adib Kimya Sanayi"
+        },
+        "products": {
+            "pageTitle": "Ürünler",
+            "nav-home": "Ana Sayfa",
+            "nav-about": "Hakkımızda",
+            "nav-products": "Ürünler",
+            "nav-contact": "İletişim",
+            "headline": "Şirket Ürünleri",
+            "subheadline": "Parsa Fanavari Adib Petrokimya Şirketi, 10.000 tonluk depolama kapasitesi ve son teknoloji tesisleri ile kimyasal çözücüler, incelticiler, beyaz tinerler ve hafif ve ağır hidrokarbonları üretme, rafine etme ve arıtma konusunda uzmanlaşmıştır.",
+            "nav-lang": "Türkçe",
+            "text-button": "Ürünleri Keşfet",
+            "Company": "Adib Kimya Sanayi"
+        },
+        "contact": {
+            "pageTitle": "İletişim",
+            "nav-home": "Ana Sayfa",
+            "nav-about": "Hakkımızda",
+            "nav-products": "Ürünler",
+            "nav-contact": "İletişim",
+            "headline": "İletişim",
+            "subheadline": "Parsa Fanavari Adib Petrokimya Şirketi, 10.000 tonluk depolama kapasitesi ve son teknoloji tesisleri ile kimyasal çözücüler, incelticiler, beyaz tinerler ve hafif ve ağır hidrokarbonları üretme, rafine etme ve arıtma konusunda uzmanlaşmıştır.",
+            "nav-lang": "Türkçe",
+            "text-button": "Ürünleri Keşfet",
+            "Company": "Adib Kimya Sanayi"
+        }
+    }
+}
