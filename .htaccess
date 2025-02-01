@@ -11,7 +11,7 @@ RewriteRule ^(en|tr|ar)?$ home.html [L]
 RewriteRule ^about/?$ about.html [L]
 RewriteRule ^(en|tr|ar)/about/?$ about.html [L]
 
-RewriteRule ^contact/?$ contact.html [L]
+
 RewriteRule ^(en|tr|ar)/contact/?$ contact.html [L]
 
 RewriteRule ^products/?$ products.html [L]
